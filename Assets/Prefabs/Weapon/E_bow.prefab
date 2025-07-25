@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21d257f8cbb44d240b8931e10cad98d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delay: 1
+  delay: 1.3
   weaponSize: 0.5
   power: 1
   speed: 2.5
